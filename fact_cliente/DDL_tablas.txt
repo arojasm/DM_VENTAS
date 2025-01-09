@@ -1,2 +1,3 @@
 Autor: Arturo
 fecha : 08/01
+objetivo: Crear la metadata del DM ventas
